@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb450a1-9581-449d-8000-7b2132a9521e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/4-DOM-Pig-Game/challenges.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/4-DOM-Pig-Game/app.js" afterPath="$PROJECT_DIR$/4-DOM-Pig-Game/app.js" />
+      <change beforePath="$PROJECT_DIR$/4-DOM-Pig-Game/challenges.js" afterPath="$PROJECT_DIR$/4-DOM-Pig-Game/challenges.js" />
       <change beforePath="$PROJECT_DIR$/4-DOM-Pig-Game/index.html" afterPath="$PROJECT_DIR$/4-DOM-Pig-Game/index.html" />
       <change beforePath="$PROJECT_DIR$/4-DOM-Pig-Game/style.css" afterPath="$PROJECT_DIR$/4-DOM-Pig-Game/style.css" />
     </list>
@@ -20,11 +20,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="323">
+              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -33,8 +45,8 @@
       <file leaf-file-name="challenges.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/challenges.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="63" column="24" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="24" />
+            <state relative-caret-position="412">
+              <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -49,6 +61,12 @@
       <find>myFunction</find>
       <find>font-fa</find>
       <find>roll</find>
+      <find>insert</find>
+      <find>diceDOM</find>
+      <find>lastDice1</find>
+      <find>lastDice</find>
+      <find>dice</find>
+      <find>dice</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -58,10 +76,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/file.js" />
-        <option value="$PROJECT_DIR$/4-DOM-Pig-Game/app.js" />
         <option value="$PROJECT_DIR$/4-DOM-Pig-Game/fff.html" />
         <option value="$PROJECT_DIR$/4-DOM-Pig-Game/index.html" />
         <option value="$PROJECT_DIR$/4-DOM-Pig-Game/style.css" />
+        <option value="$PROJECT_DIR$/4-DOM-Pig-Game/app.js" />
         <option value="$PROJECT_DIR$/4-DOM-Pig-Game/challenges.js" />
       </list>
     </option>
@@ -97,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -114,7 +133,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,12 +172,14 @@
       <workItem from="1520890074587" duration="2908000" />
       <workItem from="1520971855052" duration="4591000" />
       <workItem from="1520978043348" duration="1671000" />
-      <workItem from="1521295801469" duration="6103000" />
+      <workItem from="1521295801469" duration="10823000" />
+      <workItem from="1521307106896" duration="146000" />
+      <workItem from="1521307257912" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21248000" />
+    <option name="totallyTimeSpent" value="26175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -195,6 +215,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/challenges.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="73" lean-forward="true" selection-start-line="108" selection-start-column="73" selection-end-line="108" selection-end-column="73" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/challenges.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="81" lean-forward="true" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -381,44 +457,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file.js" />
+    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/fff.html" />
+    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="163" column="38" lean-forward="true" selection-start-line="163" selection-start-column="38" selection-end-line="163" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/fff.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="323">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4-DOM-Pig-Game/challenges.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="63" column="24" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="24" />
+        <state relative-caret-position="412">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
